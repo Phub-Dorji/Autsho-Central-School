@@ -2,12 +2,6 @@ header{
   background-color: lightgray;
   text-align: centre;
 }
-body{
-  display: block;
-  margin: 8px;
-  font-family: "sans-serif", "Times New Roman", "Tahoma","Verdana", ;
-  font-size: 150%;
-}
 li{
   display: inline-block;
   width: 12%;
@@ -15,4 +9,11 @@ li{
   height: 100px;
   background: lightblue;
   line-height: 100px;
+}
+
+body{
+  display: block;
+  margin: 8px;
+  font-family: "sans-serif", "Times New Roman", "Tahoma","Verdana", ;
+  font-size: 150%;
 }
