@@ -4,11 +4,11 @@ header{
 }
 li{
   display: inline-block;
-  width: 27%;
+  width: 25%;
   text-align: center;
-  height: 100px;
+  height: 90px;
   background: lightblue;
-  line-height: 100px;
+  line-height: 90px;
 }
 
 body{
